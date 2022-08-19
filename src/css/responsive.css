@@ -1,0 +1,54 @@
+@media (max-width: 375px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        background: url('../images/bg-mobile.png') center center no-repeat;
+        background-color: hsl(257, 40%, 49%);
+        background-size: 1fr;
+    }
+
+    header.header a img.logo {
+        width: 150px;
+        margin: 30px 100px 30px 50px;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+    main .product {
+        margin: 30px auto;
+        width: 300px;   
+    }
+
+    main .info {
+        width: 300px;
+        margin: auto 50px;
+        color: #fff;
+        margin-right: 0;
+    }
+
+    main .info h2 {
+        font-size: 20px;
+        width: 250px;
+        line-height: 30px;
+        justify-content: center;
+        margin: 25px 20px;
+    }
+
+    main .info p {
+        width: 270px;
+        text-align: center;
+    }
+
+    main .info a.btn {
+        margin: 30px auto;
+        width: 300px;
+        justify-content: center;
+    }
+
+    footer.footer .social {
+        margin: 80px 90px;
+        justify-content: space-around;
+    }
+}
