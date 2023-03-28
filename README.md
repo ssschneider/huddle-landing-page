@@ -1,43 +1,38 @@
-# Huddle Landing Page
+<h1 align="center"> Huddle </h1>
 
-Me desafiei a, não apenas completar o desafio "Huddle Landing Page" do Front-End Mentor, mas também a fazê-lo no menor tempo possível. Em 1h45min, desenvolvi uma landing page de seção introdutória única.
+<p align="center">
+Desafio do Front-End Mentor de seção introdutória única <br/>
+</p>
 
-## O Desafio 💪
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-english-version">English Version</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-Criar a landing page de seção introdutória única da Huddle, apenas com as images usadas e as imagens da versão final no desktop e mobile.
+<p align="center">
+  <img alt="Preview" src="src/images/desktop.gif" width="100%">
+</p>
 
-*Versão desktop Front-End Mentor:*
-![](src/design/desktop-design.jpg)
+## 🚀 Tecnologias
 
-*Versão mobile Front-End Mentor:*
-![](src/design/mobile-design.jpg)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## A minha página em funcionamento 😎
-
-*Versão desktop:*
-![](desktop.gif)
-
-*Versão mobile:*
-![](mobile.gif)
-
-## Tecnologias usadas 🤓
-
-- HTML5
-- CSS3
-- Clean Code
-- Tags Semânticas
-- Acessibilidade
-- Flexbox
+- HTML
+- CSS
+- CSS Flexbox
 - CSS Grid
 
-## Dificuldades 🥵
+## 💻 Deploy
 
-Encontrei as maiores dificuldades em momentos de incerteza entre quais propriedades usar, mas consegui resolver sem muito problema ao consultar as minhas anotações. Para evitar possíveis frustrações, eu pausei o meu trabalho por alguns momentos para então retormá-lo, de maneira mais clara e calma.
+> [Clique aqui para navegar para o projeto!](https://ssschneider.github.io/huddle-landing-page/)
 
-## O que eu aprendi 👩‍🎓
+## 🌎 English Version
 
-Com o objetivo de simular uma experiência o mais próxima do mundo real, eu procurei encontrar o ponto de intercessão entre a insistência e o pedir ajuda (ao Google, no caso), em busca de eficiência, mas sem sacrificar a proatividade e acertos-erros.
+Huddle is a project developed as a solution to the Huddle Landing Page with a Single Introductory Section challenge by Front-End Mentor. To do that, I've used:
+- HTML, CSS, CSS Flexbox and CSS Grid
 
-## Continuação e Desenvolvimento 👩‍🏫
+> You can check out the deploy by [clicking here](https://ssschneider.github.io/huddle-landing-page/)
 
-Como essa foi a minha primeira vez construindo um projeto completo usando Flex e Grid, ainda quero me aprofundar muito nessas propriedades para que eu possa desenvolver projetos melhores.
+---
+### Desenvolvido por Sarah Schneider 🖖
